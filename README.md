@@ -58,3 +58,23 @@ Concepts Practiced:
 - Async data handling
 - State-driven UI rendering
 - Separation of concerns (state, logic, UI)
+
+---
+
+### 5. Image Gallery Switcher
+
+![Image Gallery](screenshots/image-gallery-switcher.png)
+
+Features:
+
+- Click thumbnails to switch main image
+- Next/Previous navigation
+- Wrap-around logic for seamless cycling
+- Active thumbnail highlighting
+
+Concepts Practiced:
+
+- DOM manipulation
+- Event handling
+- State management using index
+- Synchronizing UI with state
